@@ -1,1 +1,1 @@
-git=project-1B
+git-project-1B
