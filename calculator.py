@@ -6,5 +6,6 @@ print("d")
 
 a / b = pembagian
 print("pembagian")
-print("pembagian")
-print("pembagian")
+
+a * b = perkalian
+print("perkalian")
