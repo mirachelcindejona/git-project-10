@@ -3,6 +3,3 @@ b = 5
 c = 10
 a + b + c = d
 print("d")
-
-a * b = perkalian
-print("perkalian")
