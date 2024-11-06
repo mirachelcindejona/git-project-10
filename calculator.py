@@ -4,5 +4,5 @@ c = 10
 a + b + c = d
 print("d")
 
-a * b = pembagian
-print("pembagian")
+a * b = perkalian
+print("perkalian")
