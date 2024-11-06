@@ -6,3 +6,5 @@ print("d")
 
 a / b = pembagian
 print("pembagian")
+print("pembagian")
+print("pembagian")
