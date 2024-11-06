@@ -1,4 +1,5 @@
 a = 2
 b = 5
-a + b = c
-print("c")
+c = 10
+a + b + c = d
+print("d")
